@@ -6,7 +6,7 @@
       "name": "events",
       "direction": "in",
       "eventHubName": "myfirsteventhub",
-      "connection": "",
+      "connection": "chrisundritz_RootManageSharedAccessKey_EVENTHUB",
       "cardinality": "many",
       "consumerGroup": "$Default",
       "dataType": "binary"
