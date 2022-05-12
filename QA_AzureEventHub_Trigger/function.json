@@ -5,7 +5,7 @@
       "type": "eventHubTrigger",
       "name": "events",
       "direction": "in",
-      "eventHubName": "myfirsteventhub",
+      "eventHubName": "Aggora-IoT-Hub",
       "connection": "chrisundritz_RootManageSharedAccessKey_EVENTHUB",
       "cardinality": "many",
       "consumerGroup": "$Default",
